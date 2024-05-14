@@ -4,7 +4,7 @@
 
 Seja bem-vindo a API Natureza365! Este arquivo README fornece informações sobre a estrutura do projeto, como executá-lo localmente e outras informações relevantes.
 
-A API Natureza365 é uma ferramenta para cadastrar e gerenciar locais de interesse na natureza, como trilhas, cachoeiras e praias. Com ela, você pode facilmente adicionar novos locais, atualizar informações existentes e remover locais da sua conta. Para enriquecer os dados, integramos a API OpenStreetMap, que fornece informações detalhadas de localização com base no CEP inserido.
+A API Natureza365 é uma ferramenta poderosa para cadastrar e gerenciar locais de interesse na natureza, como trilhas, cachoeiras e praias. Com ela, você pode facilmente adicionar novos locais, atualizar informações existentes e remover locais da sua conta. Para enriquecer os dados, integramos a API OpenStreetMap, que fornece informações detalhadas de localização com base no CEP inserido.
 
 Esse projeto foi desenvolvido em Javascript, utilizando ferramentas como Node.js, PostgreSQL e Sequelize.
 
@@ -24,15 +24,7 @@ Esse projeto foi desenvolvido em Javascript, utilizando ferramentas como Node.js
 2. Definir configurações de ambiente a partir do exemplo presente no código:
     `cp .env_example .env`
 
-3. Instalar bibliotecas
-
-4. Subir as migrations
-
-5. Subir os seeders
-
-6. Rodar o autoGen se necessário
-
-7. Rodar o repositório em ambiente local:
+3. Rodar o repositório em ambiente local:
     `npm run start:dev`
 
 ## Rodando as migrations:
@@ -144,3 +136,11 @@ Pasta em que se encontram os arquivos de rota, onde os controllers são importad
 3. Adotar o uso de spread, para que ao atualizar um local, ou o próprio cadastro, o usuário não precise preencher todos os campos novamente.
 4. Melhorar as condições de validação, como senhas mais fortes. Ex.: a senha deve ter no mínimo 8 caracteres, sendo eles uma letra maiuscula, um número e um caractere especial.
 
+
+
+
+
+
+
+qual o objetivo do sistema?
+meu sistema tem como objetivo 
