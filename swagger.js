@@ -2,7 +2,7 @@ const swaggerAutogen = require('swagger-autogen')();
 
 const doc = {
     info: {
-        title: "API Escola",
+        title: "API Natureza365",
         description: "Uma API de cadastro de usuários e locais na natureza através de uma API externa. Utilizando javascript, express, sequelize, node.js e postgres.",
         version: "1.0.0"
     },
